@@ -1,0 +1,6 @@
+@FileTask_HostAddress = http://localhost:5255
+
+GET {{FileTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
